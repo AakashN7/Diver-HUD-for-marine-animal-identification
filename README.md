@@ -28,8 +28,6 @@ pip install tensorflow opencv-python-headless numpy pandas
 
 1.Clone the repository:
 
-git clone https://github.com/vaibhav1211/Diver-HUD-for-marine-animal-identification/HUDGoggleRun.git
-
 2.Navigate to the project directory:
 
 cd Diver-HUD-for-marine-animal-identification
